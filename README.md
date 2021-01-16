@@ -1,1 +1,0 @@
-# Elipse-core
